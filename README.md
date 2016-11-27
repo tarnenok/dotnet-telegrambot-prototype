@@ -1,4 +1,5 @@
 # Telegram bot prototype
+This simple bot echos any user text message and saves images to local storage
 
 ## Configuration
 
